@@ -2,8 +2,8 @@
 
 Copy the repo and run the following commands:
 
-- docker compose up
-- curl -X POST -H "Content-Type: text/plain" --data "Hello!" localhost:9000/api/messages
+- `docker compose up`
+- `curl -X POST -H "Content-Type: text/plain" --data "Hello!" localhost:9000/api/messages`
 
 As output, you should see the following message:
 ```
